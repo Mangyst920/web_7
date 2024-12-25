@@ -17,8 +17,8 @@ body {
 
 .gallery img {
     width: 100%;
-    height: 400px; /* 高さを固定 */
-    object-fit: cover; /* 画像が枠に収まるようにトリミング */
+    height: 400px; 
+    object-fit: cover; 
     border-radius: 8px;
 }
 
